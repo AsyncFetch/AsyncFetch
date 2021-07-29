@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AsyncFetch
-- 👀 I’m interested in | hacking lego gaem
+- 👀 I’m interested in | hacking lego games
 - 🌱 I’m currently learning | c++,node.js
 - 📫 How to reach me | 133 Jailbreak Street
 
