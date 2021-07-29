@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AsyncFetch
-- 👀 I’m interested in | hacking lego games
-- 🌱 I’m currently learning | c++,node.js
-- 📫 How to reach me | 133 Jailbreak Street
+- 👀 I'm Not Intersted In Dming You On Discord 👍
 
 <!---
 AsyncFetch/AsyncFetch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
